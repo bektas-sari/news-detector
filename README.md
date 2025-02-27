@@ -1,4 +1,4 @@
-# (Fake) News Detector
+# News Detector
 
 ## Overview
 This project is a **Fake News Detection Web Application** that verifies whether a news headline or content exists on trusted news websites using **Google Custom Search API**. If the news is found, it is considered **real**, otherwise, it might be **fake**.
