@@ -46,7 +46,7 @@ http://127.0.0.1:5000/
 ```
 
 ## 📂 Dataset  
-We used `Fake.csv`, `True.csv`, `final_news.csv`, and `processed_news.csv` to train our machine learning model.  
+I used `Fake.csv`, `True.csv`, `final_news.csv`, and `processed_news.csv` to train our machine learning model.  
 These files are too large to be uploaded to GitHub, so you can download them from the link below:  
 
 🔗 **Download the dataset here:** [https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets]
