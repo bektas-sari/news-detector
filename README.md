@@ -81,7 +81,3 @@ Mail: bektas.sari@gmail.com
 ---
 
 ⭐ **If you find this project useful, don't forget to give it a star on GitHub!** ⭐
-
-
-
- Fake News Detector is a system that analyzes whether news headlines are real or fake. It evaluates user input using a trained machine learning model and checks its online presence via Google Custom Search API. Built with Flask, it features a sleek and user-friendly interfa
