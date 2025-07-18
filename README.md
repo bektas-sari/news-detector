@@ -76,8 +76,13 @@ This project is **open-source** under the MIT License.
 ## Contributing
 Feel free to submit pull requests to improve the project! 😊
 
-## Contact
-Mail: bektas.sari@gmail.com
+## 👤 Developer
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 ---
 
